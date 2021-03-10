@@ -1,2 +1,2 @@
 # My GitHub.IO
-Link: joeslee94.github.io
+Link: [Joe's Portfolio](joeslee94.github.io)
